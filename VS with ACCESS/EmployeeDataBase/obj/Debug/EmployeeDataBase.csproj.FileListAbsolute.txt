@@ -1,0 +1,10 @@
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\bin\Debug\EmployeeDataBase.exe.config
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\bin\Debug\EmployeeDataBase.exe
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\bin\Debug\EmployeeDataBase.pdb
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.FormEmployee.resources
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.Properties.Resources.resources
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.csproj.GenerateResource.cache
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.csproj.CoreCompileInputs.cache
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.exe
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.pdb
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\VS with ACCESS\EmployeeDataBase\obj\Debug\EmployeeDataBase.csprojAssemblyReference.cache
