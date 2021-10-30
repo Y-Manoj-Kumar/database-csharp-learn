@@ -1,0 +1,10 @@
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.pdb
