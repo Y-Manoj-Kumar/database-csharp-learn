@@ -16,7 +16,7 @@ namespace CalculatorApp
         // initialising global variables
 
         string first = ""; // a
-        string second = ""; // b    input vlaues
+        string second = ""; //b    input vlaues
         char function; // for storing the respective operation
         double result = 0.0; // hold the result 
         string userInput = "";
@@ -30,7 +30,7 @@ namespace CalculatorApp
 
         private void num1_Click(object sender, EventArgs e)
         {
-            calculatorDisplay.Text = "";
+            calculatorDisplay.Text = ""; // += is used to add the upcoming value
             userInput += "1";
             calculatorDisplay.Text += userInput;
         }
@@ -191,7 +191,7 @@ namespace CalculatorApp
             }
 
             //send result to first
-            first = result.ToString();
+            first = result.ToString();  // Here result is resetting to first
         }
 
         public void HandleInputs()

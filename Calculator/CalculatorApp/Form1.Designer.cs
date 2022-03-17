@@ -64,7 +64,7 @@
             this.calculatorDisplay.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.calculatorDisplay.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.calculatorDisplay.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.calculatorDisplay.Location = new System.Drawing.Point(18, 16);
+            this.calculatorDisplay.Location = new System.Drawing.Point(18, 9);
             this.calculatorDisplay.Name = "calculatorDisplay";
             this.calculatorDisplay.Size = new System.Drawing.Size(463, 117);
             this.calculatorDisplay.TabIndex = 1;
@@ -251,7 +251,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(497, 472);
+            this.ClientSize = new System.Drawing.Size(487, 461);
             this.Controls.Add(this.decimalButton);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.divideButton);

@@ -8,3 +8,14 @@ C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\o
 C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
 C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.exe
 C:\Users\MANOJ\Documents\GitHub\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\GITHUB REPO\database-csharp-learn\Calculator\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
